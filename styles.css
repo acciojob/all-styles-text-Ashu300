@@ -1,2 +1,16 @@
+.container{
+background-color: purple;
+width:200px;
 
-/* Your CSS Code here. */
+border-left-width: 5px;
+border-left-color: green;
+border-left-style: solid;
+}
+
+.text{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    text-decoration: underline;
+}
+
